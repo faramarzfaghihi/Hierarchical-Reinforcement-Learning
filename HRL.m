@@ -1,6 +1,6 @@
 %%%%%%%%%%% MATLAB code for 'Hierarchically organized behavior and its neural foundations:
 %%%%%%%%%%% A reinforcement learning perspective' Botnivick, 2009 Figure4.
-%%%% Writen by Faramarz Faghihi
+%%%% Written by Faramarz Faghihi
 
    
      load('4RoomsSimVariables.mat')
